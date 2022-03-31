@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exemplo</string>
+    <string name="diceRoller">roller</string>
+    <string name="roll_label">label</string>
+</resources>
